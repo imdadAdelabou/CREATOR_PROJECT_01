@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("../images/free-website-background-07.jpeg");
+    font-size: 20px;    
+}
+
+.pa
+{
+    width: 950px;
+    box-shadow: 0px 6px 10px black;
+}
+
+.pb:hover {
+    color: red;
+}
+
+.pc
+{
+    color: red;
+    font-size: 30px;
+}
+
+body
+{
+    font-family:Arial, serif, sans-serif, 'Trebuchet MS'
+    src: url(../images/BALLW___.TTF)format(TTF);
+}
+
+
+
