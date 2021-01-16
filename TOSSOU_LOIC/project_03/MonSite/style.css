@@ -1,0 +1,101 @@
+.mec
+{
+	color: red;
+	
+}
+.image img
+{
+	margin-left: 250px;
+	max-height: 80px;
+}
+.image h1
+{
+	margin-left: 340px;
+	margin-top: -40px;
+	color: red;
+}
+body
+{
+	background-image: url("../images/back.jpeg");
+}
+.test
+{
+	height: 300px;
+	width: 900px;
+	margin-left: 250px;
+}
+.je
+{
+	margin-top: 20px;
+	margin-left: 250px;
+}
+.je p
+{
+	margin-left: 60px;
+	margin-top: -40px;
+}
+.Sentence
+{
+	color: #181818;
+	margin-top: 30px;
+	margin-left: 250px;
+}
+.first
+{
+	color: #5eff00;
+	position: relative;
+	left: 800px;
+	top: -650px;
+	text-decoration: none;
+}
+.second
+{
+	position: relative;
+	left: 890px;
+	top: -692px;
+	color: #5eff00;
+	text-decoration: none;
+}
+.three
+{
+	position: relative;
+	color: #5eff00;
+	text-decoration: none;
+	left: 950px;
+	top: -733px;
+}
+.four
+{
+	position: relative;
+	color: #5eff00;
+	text-decoration: none;
+	left: 1000px;
+	top: -775px;
+}
+.My
+ {
+ 	position: relative;
+ 	width: 276px;
+ 	left: 975px;
+ 	top: -430px;
+ }
+ .lolo
+ {
+ 	position: relative;
+ 	max-height: 180px;
+ 	left: 760px;
+ 	top: -490px;
+ }
+ .MOI
+ {
+ 	position: relative;
+ 	left: 1026px;
+ 	top: -720px;
+ }
+ .name
+ {
+ 	position: relative;
+ 	left: 980px;
+ 	top: -530px;
+ 	font-size: 15px;
+ }
