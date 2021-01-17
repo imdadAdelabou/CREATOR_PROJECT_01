@@ -1,0 +1,118 @@
+.profil img
+{
+	margin-left: 250px;
+	max-height: 75px;
+}
+
+.promo
+{
+	margin-top: -110px;
+	margin-left: 250px;
+}
+
+.profil p
+{
+	font-size: 40px;
+	position: relative;
+	left: 330px;
+	top: -80px;
+	font-family: 'ballparkWeiner';
+	color: red;
+}
+
+.Epitech img
+{
+	margin-top: 30px;
+	margin-left: 250px;
+}
+
+.Epitech p
+{
+	margin-left: 310px;
+	margin-top: -40px;
+}
+
+.para
+{
+    font-size: 14px;
+	margin-top: 30px;
+	margin-left: 250px;
+	color: black;
+}
+
+.accueil
+{
+	font-size: 20px;
+	color:  #5eff00;
+	position: relative;
+	top: -800px;
+	left: 790px;	
+	text-decoration: none;
+}
+
+.blog
+{
+	font-size: 20px;
+	color:  #5eff00;
+	position: relative;
+	top: -800px;
+	left: 810px;	
+	text-decoration: none;
+}
+
+.cv
+{
+	font-size: 20px;
+	color:  #5eff00;
+	position: relative;
+	top: -800px;
+	left: 830px;	
+	text-decoration: none;
+}
+
+.contact
+{
+	font-size: 20px;
+	color:  #5eff00;
+	position: relative;
+	top: -800px;
+	left: 850px;	
+	text-decoration: none;
+}
+
+.font
+{
+	position: relative;
+	left: 600px;
+	top: -280px;	
+	max-height: 300px;
+}
+
+.face
+{
+	position: relative;
+	left: 350px;
+	top: -340px;
+	max-height: 170px;
+}
+
+.propos 
+{
+	color: white;
+	position: relative;
+	left: 930px;
+	top: -560px;
+}
+
+.sentence
+{
+	color: white;
+	position: relative;
+	left: 930px; 
+	top: -385px;
+}
+
+body
+{
+	background-image: url("images/back.jpeg");
+}
