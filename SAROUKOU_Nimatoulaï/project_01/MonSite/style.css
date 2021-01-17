@@ -1,0 +1,64 @@
+body
+{
+    background-image: url("../Images/free-website-background-07.jpeg");
+    font-size: 20px;    
+}
+
+.ba
+{
+    position: absolute;left: 190px;
+}
+
+.bb
+{
+    position: absolute; left: 250px; top: 15px;
+}
+
+.bc
+{
+    position: absolute; left: 1040px; top: 10px
+}
+
+.bd
+{
+    position: absolute; left: 995px; top: 10px
+}
+
+.be
+{
+    position: absolute; left: 925px; top: 10px;
+}
+.bf
+{
+    position: absolute; left: 830px; top: 10px;
+}
+
+.bg
+{
+    position: absolute; left: 190px; top: 67px;
+}
+
+.bh
+{
+    position: absolute; top: 280px; left: 190px;
+}
+
+.bi
+{
+    position: absolute; left: 250px; top: 280px;
+}
+
+.bj
+{
+    position: absolute; left: 190px; top: 310px; right: 500px;
+}
+
+.bk
+{
+    position: absolute; left: 800px; top: 310px;
+}
+
+.bl
+{
+    position: absolute; left: 850px; top: 360px;
+}

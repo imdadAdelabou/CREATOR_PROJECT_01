@@ -1,0 +1,96 @@
+.improf img
+{
+    margin-left: 250px;
+	max-height: 80px;
+}
+.improf h1
+{
+    margin-left: 340px;
+	margin-top: -40px;
+	color: red;
+}
+body
+{
+	background-image: url("Mon_site/free-website-background-07.jpeg");
+}
+.adm
+{
+    height: 300px;
+	width: 900px;
+	margin-left: 250px;
+}
+.I
+{
+    margin-top: 20px;
+	margin-left: 250px;
+}
+.I p
+{
+    margin-left: 60px;
+	margin-top: -40px;
+}
+.the_text
+{
+    color: #181818;
+	margin-top: 30px;
+	margin-left: 250px;
+}
+.one
+{
+    color: #5eff00;
+	position: relative;
+	left: 800px;
+	top: -650px;
+	text-decoration: none;
+}
+.two
+{
+    position: relative;
+	left: 890px;
+	top: -692px;
+	color: #5eff00;
+	text-decoration: none;
+}
+.three
+{
+    position: relative;
+	color: #5eff00;
+	text-decoration: none;
+	left: 950px;
+	top: -733px;
+}
+.four
+{
+    position: relative;
+	color: #5eff00;
+	text-decoration: none;
+	left: 1000px;
+	top: -775px;
+}
+.me
+{
+    position: relative;
+    width: 276px;
+    left: 975px;
+    top: -430px;
+}
+.alb
+{
+    position: relative;
+ 	max-height: 180px;
+ 	left: 760px;
+ 	top: -490px;
+}
+.about
+{
+    position: relative;
+ 	left: 1026px;
+ 	top: -720px;
+}
+.present
+{
+    position: relative;
+ 	left: 980px;
+ 	top: -530px;
+ 	font-size: 15px;
+}
