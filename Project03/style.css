@@ -1,6 +1,6 @@
 /*  Principaux eléments  de  la  page  */ body
 {
-  background: url('pics/fond.jpg') no-repeat;
+  background: url('pics/fond.png') no-repeat;
   font-family: 'Trebuchet  MS',  Arial,  sans-serif;
   color: #181818;
 }
@@ -71,7 +71,7 @@ nav a:hover {
   margin-top: 15px;
   height: 200px;
   border-radius: 5px;
-  background: url('pics/banniere_epitech.jpg') no-repeat;
+  background: url('pics/banniere_epitech.png') no-repeat;
   position: relative;
   box-shadow: 0px 4px 4px #1c1a19;
   margin-bottom: 25px;
